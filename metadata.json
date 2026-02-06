@@ -1,0 +1,8 @@
+
+{
+  "name": "Vitraff - Smart Indian Traffic & Parking System",
+  "description": "A hackathon-ready smart traffic and parking management system for Indian cities, featuring role-based dashboards, video-based AI congestion detection, and emergency corridor overrides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
